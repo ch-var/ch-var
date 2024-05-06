@@ -22,7 +22,7 @@ Computational mathematics
 
 Mathematical and computational (in-silico) modelling
 
-MCMC model fitting
+Markov chain Monte Carlo (MCMC) model fitting
 
 Bayesian inference
 
