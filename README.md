@@ -3,6 +3,7 @@
 
 
 ✨ Turning my hobby into my job and vice versa
+
 💻 Currently working on [![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART) 
 
 👀 Passionate researcher in the broad area of **Computational and Applied Mathematics**
