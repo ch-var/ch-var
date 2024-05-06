@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Cover&label=Profile%20views&color=orange&style=flat" /> </p>
 
 
-💻 Currently working on **SMART** [![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART) 
+💻 Currently working on [![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART) 
 
 👀 Passionate researcher in the broad field of **Computational and Apllied Mathematics**
 
