@@ -1,5 +1,5 @@
 <h1>Hi, I'm Charalambia<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Cover&label=Profile%20views&color=orange&style=flat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cover&label=Profile%20views&color=orange&style=flat" /> </p>
 
 <p align="center"> <img src="SFR.png" /> </p>
 
