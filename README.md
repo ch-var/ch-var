@@ -8,7 +8,7 @@
 
 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) 
 
-🔭 How find my scientific works at: <a itemprop="sameAs" content="https://orcid.org/0009-0004-6200-0919" href="https://orcid.org/0009-0004-6200-0919" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">
+🔭 How to find my scientific works: <a itemprop="sameAs" content="https://orcid.org/0009-0004-6200-0919" href="https://orcid.org/0009-0004-6200-0919" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">
 
 
 <p align="center"> <img src="SFR.png" /> </p>
