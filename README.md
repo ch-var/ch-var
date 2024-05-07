@@ -14,6 +14,8 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC6Yyxgp4KmtX6cXLyw_jb9Q)
 
+[![YouTube](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fyoutube-channel-badge.ngoldack.vercel.app%2Fapi%2Fvideos)](https://www.youtube.com/channel/UC6Yyxgp4KmtX6cXLyw_jb9Q)
+
 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) 
 
 
