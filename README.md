@@ -31,6 +31,8 @@ Bayesian inference
 Finite element method
 
 
-👯 If you are interested to learn more about me, please download my CV from [here](https://github.com/ch-var/ch-var/blob/main/CV%20-%20Charalambia%20Varnava.pdf).
+More about me
+=============
+For more information about me, please download my CV from [here](https://github.com/ch-var/ch-var/blob/main/CV%20-%20Charalambia%20Varnava.pdf).
 
 
