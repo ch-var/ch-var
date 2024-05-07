@@ -12,7 +12,6 @@
 
 ⚡How to watch my videos: [![YouTube](https://img.shields.io/badge/YouTube-white?style=flat&labelColor=white&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC6Yyxgp4KmtX6cXLyw_jb9Q)
 
-
 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) 
 
 
