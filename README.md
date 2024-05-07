@@ -31,3 +31,6 @@ Bayesian inference
 Finite element method
 
 
+👯 If you are interested to learn more about me, please download my CV from [here](https://github.com/ch-var/SMART/commit/f8f7c03e5e77572f480abdd37f277920fe42b5c0).
+
+
