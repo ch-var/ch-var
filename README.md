@@ -2,11 +2,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Cover&label=Profile%20views&color=orange&style=flat" /> </p>
 
 
-✨ Turning my hobby into my job and vice versa
-
 💻 Currently working on [![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART) 
 
 👀 Passionate researcher in the broad areas of **Computational and Applied Mathematics**, as well as **Galaxy Evolution**
+
+✨ Turning my hobby into my job and vice versa
 
 🔭 How to find my scientific works: <a itemprop="sameAs" content="https://orcid.org/0009-0004-6200-0919" href="https://orcid.org/0009-0004-6200-0919" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:19px;margin-right:.5em;" alt="ORCID iD icon">
 
