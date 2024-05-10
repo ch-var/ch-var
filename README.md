@@ -33,6 +33,6 @@ Finite element method
 
 More about me
 =============
-For more information about me, please read my [C.V.](https://github.com/ch-var/ch-var/blob/main/CV%20-%20Charalambia%20Varnava.pdf).
+For more information about me, please read my [C.V.](https://github.com/ch-var/ch-var/blob/main/CV%20-%20Charalambia%20Varnava.pdf)
 
 
