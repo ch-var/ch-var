@@ -2,9 +2,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Cover&label=Profile%20views&color=orange&style=flat" /> </p>
 
 
-💻 Currently working on [![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART)
+💻 Currently working on [![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART) 
 
- 
 👀 Passionate researcher in the broad areas of **Computational and Applied Mathematics**, as well as **Galaxy Evolution**
 
 ✨ Turning my hobby into my job and vice versa
@@ -15,7 +14,8 @@
 
 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) 
 
-<p align="center"> <img src="VV340a_2_geometries.png" width="550" height="320" /> </p>
+
+<p align="center"> <img src="SFR.png" /> </p>
 
 
 Fields of Scientific Interest
