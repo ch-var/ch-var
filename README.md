@@ -4,9 +4,10 @@
 
 💻 Currently working on [![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART)
 
-✨ Turning my hobby into my job and vice versa
-
+ 
 👀 Passionate researcher in the broad areas of **Computational and Applied Mathematics**, as well as **Galaxy Evolution**
+
+✨ Turning my hobby into my job and vice versa
 
 🔭 How to find my scientific works: [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0004-6200-0919)
 
