@@ -15,8 +15,7 @@
 
 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) 
 
-
-<p align="center"> <img src="SFR.png" /> </p>
+<p align="center"> <img src="VV340a_2_geometries.png" /> </p>
 
 
 Fields of Scientific Interest
