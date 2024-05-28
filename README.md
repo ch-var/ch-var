@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Cover&label=Profile%20views&color=orange&style=flat" /> </p>
 
 
-💻 Currently working on [<img src="https://github.com/ch-var/ch-var/blob/main/SMART_logo_for_profile.jpg" width="32" height="32">](https://github.com/ch-var/SMART)
+💻 Currently working on **SMART** [<img src="https://github.com/ch-var/ch-var/blob/main/SMART_logo_for_profile.jpg" width="16" height="16">](https://github.com/ch-var/SMART)
 
 👀 Passionate researcher in the broad areas of **Computational and Applied Mathematics**, as well as **Galaxy Evolution**
 
