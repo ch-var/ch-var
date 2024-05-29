@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Charalambia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Cover&label=Profile%20views&color=orange&style=flat" /> </p>
 
+<br>
 
 💻 Currently working on **SMART** [<img src="https://github.com/ch-var/ch-var/blob/main/SMART_logo_for_profile.jpg" width="16" height="16">](https://github.com/ch-var/SMART)
 
@@ -14,9 +15,14 @@
 
 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) 
 
+<br>
+<br>
+<br>
 
 <p align="center"> <img src="SFR.png" /> </p>
 
+<br>
+<br>
 
 Fields of Scientific Interest
 =============
