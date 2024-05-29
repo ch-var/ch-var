@@ -9,11 +9,11 @@
 
 ✨ Turning my hobby into my job and vice versa
 
-🔭 How to find my scientific works: [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0004-6200-0919)
+🔭 How to find my scientific works: &thinsp; [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0004-6200-0919)
 
-⚡ How to watch my videos: [![YouTube](https://img.shields.io/badge/YouTube-white?style=flat&labelColor=white&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC6Yyxgp4KmtX6cXLyw_jb9Q)
+⚡ How to watch my videos: &thinsp; [![YouTube](https://img.shields.io/badge/YouTube-white?style=flat&labelColor=white&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC6Yyxgp4KmtX6cXLyw_jb9Q)
 
-📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) 
+📬 How to reach me: &thinsp; [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) 
 
 <br>
 <br>
@@ -21,7 +21,6 @@
 
 <p align="center"> <img src="SFR.png" /> </p>
 
-<br>
 <br>
 
 Fields of Scientific Interest
@@ -36,6 +35,7 @@ Bayesian inference
 
 Finite element method
 
+<br>
 
 More about me
 =============
