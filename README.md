@@ -3,7 +3,7 @@
 
 <br>
 
-💻 Currently working on **SMART** [<img src="https://github.com/ch-var/ch-var/blob/main/SMART_logo_for_profile.jpg" width="16" height="16">](https://github.com/ch-var/SMART)
+💻 Currently working on **SMART** [<img src="https://github.com/ch-var/ch-var/blob/main/SMART_logo_for_profile.jpg" width="19" height="19">](https://github.com/ch-var/SMART)
 
 👀 Passionate researcher in the broad areas of **Computational and Applied Mathematics**, as well as **Galaxy Evolution**
 
