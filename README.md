@@ -27,7 +27,7 @@ Fields of Scientific Interest
 =============
 Computational mathematics
 
-Mathematical and computational (in-silico) modelling
+Differential equations
 
 Markov chain Monte Carlo (MCMC) model fitting
 
