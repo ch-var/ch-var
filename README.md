@@ -27,11 +27,11 @@ Fields of Scientific Interest
 =============
 Computational mathematics
 
-Differential equations
-
 Markov chain Monte Carlo (MCMC) model fitting
 
 Bayesian inference
+
+Differential equations
 
 Finite element method
 
