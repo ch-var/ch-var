@@ -32,6 +32,7 @@ Markov chain Monte Carlo (MCMC) model fitting
 Bayesian inference
 
 Differential equations
+Spectral energy distribution (SED) fitting
 
 Finite element method
 
