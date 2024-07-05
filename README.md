@@ -41,6 +41,6 @@ Finite element method
 
 More about me
 =============
-For more information about me, please visti my [webpage](https://ch-var.github.io)!
+For more information about me, please visit my [webpage](https://ch-var.github.io)!
 
 
