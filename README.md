@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<p align="center"> <img src="SFR.png" /> </p>
+<p align="center"> <img src="/assets/SFR.png" /> </p>
 
 <br>
 
