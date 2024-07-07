@@ -3,7 +3,7 @@
 
 <br>
 
-👀 Passionate researcher in the broad areas of **Computational and Applied Mathematics**, as well as **Galaxy Evolution**
+👀 Passionate researcher in the broad areas of **computational and applied Mathematics**, as well as **galaxy evolution**
 
 ✨ Turning my hobby into my job and vice versa
 
