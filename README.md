@@ -5,9 +5,9 @@
 
 👀 Passionate researcher in the broad areas of <br> &thinsp; &thinsp; &thinsp; &thinsp; **computational and applied mathematics**, <br> &thinsp; &thinsp; &thinsp; &thinsp; as well as **galaxy evolution** 
 
-✨ Turning my hobby into my job and vice versa
+<img align="right" src="/assets/SFR.png" width="35%" height="35%">
 
-<img align="right" src="/assets/SFR.png" width="30%" height="30%">
+✨ Turning my hobby into my job and vice versa
 
 💻 Developed **SMART** [<img src="https://github.com/ch-var/ch-var/blob/main/assets/SMART_logo_for_profile.png" width="19" height="19">](https://github.com/ch-var/SMART)
 
