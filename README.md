@@ -5,7 +5,7 @@
 
 👀 Passionate researcher in the broad areas of **computational <br> &thinsp; &thinsp; &thinsp; &thinsp; and applied mathematics**, as well as **galaxy evolution** 
 
-<img align="right" alt="GIF" src="/assets/SFR.png" width="35%" height="35%"/>
+<img align="right" src="/assets/SFR.png" width="35%" height="35%"/>
 
 ✨ Turning my hobby into my job and vice versa
 
@@ -17,7 +17,9 @@
 
 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) 
 
-<br>
+<img src="/assets/link.png" width="2.5%" height="2.5%"/>
+
+<br> Website
 
 Fields of Scientific Interest
 =============
