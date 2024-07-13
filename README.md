@@ -5,7 +5,7 @@
 
 👀 Passionate researcher in the broad areas of <br> &thinsp; &thinsp; &thinsp; &thinsp; **computational and applied mathematics**, <br> &thinsp; &thinsp; &thinsp; &thinsp; as well as **galaxy evolution** 
 
-<img align="right" src="/assets/SFR.png" width="35%" height="35%">
+<img align="right" src="/assets/SFR.png" width="40%" height="40%">
 
 ✨ Turning my hobby into my job and vice versa
 
