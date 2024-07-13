@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="right" src="/assets/SFR.png" width="45%" height="45%">
+<img align="right" src="/assets/SFR.png" width="55%" height="55%">
 
 👀 Passionate researcher in the broad areas of **computational and applied mathematics**, as well as **galaxy evolution** 
 
