@@ -3,9 +3,9 @@
 
 <br>
 
-<img align="right" src="/assets/SFR.png" width="50%" height="50%" />
+👀 Passionate researcher in the broad areas of <br> &thinsp; &thinsp; &thinsp; &thinsp; **computational and applied mathematics**, <br> &thinsp; &thinsp; &thinsp; &thinsp; as well as **galaxy evolution** 
 
-👀 Passionate researcher in the broad areas of **computational and applied mathematics**, as well as **galaxy evolution** 
+<img align="right" src="/assets/SFR.png" width="45%" height="45%">
 
 ✨ Turning my hobby into my job and vice versa
 
