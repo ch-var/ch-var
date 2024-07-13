@@ -15,7 +15,7 @@
 
 ⚡ How to watch my videos: [<img src="/assets/YouTube.png" width="3%" height="3%">](https://www.youtube.com/channel/UC6Yyxgp4KmtX6cXLyw_jb9Q)
 
-📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) 
+📬 How to reach me: [<img src="/assets/gmail.png" width="4%" height="4%">](mailto:varnava.haris@gmail.com) 
 
 🎯 How to learn more about me:[<img src="/assets/link.png" width="4%" height="4%">](https://ch-var.github.io)
 
