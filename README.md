@@ -17,7 +17,7 @@
 
 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) 
 
-🎯 How to learn more about me: [<img src="/assets/link.png" width="2.5%" height="2.5%">](https://ch-var.github.io)
+🎯 How to learn more about me:[<img src="/assets/link.png" width="2.5%" height="2.5%">](https://ch-var.github.io)
 
 <br> 
 
