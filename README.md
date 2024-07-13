@@ -13,11 +13,11 @@
 
 🔭 How to find my scientific works: [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0004-6200-0919)
 
-⚡ How to watch my videos: [<img src="/assets/YouTube.png" width="2%" height="2%">](https://www.youtube.com/channel/UC6Yyxgp4KmtX6cXLyw_jb9Q)
+⚡ How to watch my videos: [<img src="/assets/YouTube.png" width="2.5%" height="2.5%">](https://www.youtube.com/channel/UC6Yyxgp4KmtX6cXLyw_jb9Q)
 
-📬 How to reach me: [<img src="/assets/gmail.png" width="2%" height="2%">](mailto:varnava.haris@gmail.com) 
+📬 How to reach me: [<img src="/assets/gmail.png" width="2.5%" height="2.5%">](mailto:varnava.haris@gmail.com) 
 
-🎯 How to learn more about me: [<img src="/assets/link.png" width="2%" height="2%">](https://ch-var.github.io)
+🎯 How to learn more about me: [<img src="/assets/link.png" width="2.5%" height="2.5%">](https://ch-var.github.io)
 
 <br> 
 
