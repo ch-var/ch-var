@@ -39,6 +39,6 @@ Finite element method
 
 More about me
 =============
-For more information about me, please visit my [website](https://ch-var.github.io) or read my [C.V.](https://github.com/ch-var/ch-var/blob/main/assets/CV%20-%20Charalambia%20Varnava.pdf)!
+For more information, please visit my [website](https://ch-var.github.io) or read my [C.V.](https://github.com/ch-var/ch-var/blob/main/assets/CV%20-%20Charalambia%20Varnava.pdf)!
 
 
