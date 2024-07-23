@@ -5,8 +5,6 @@
 
 👀 Passionate researcher in the broad areas of **computational and applied mathematics**, as well as **galaxy evolution**
 
-<img align="right" src="/assets/SFR.png" width="45%" height="45%">
-
 ✨ Turning my hobby into my job and vice versa
 
 💻 Developed **SMART** [<img src="https://github.com/ch-var/ch-var/blob/main/assets/SMART_logo_for_profile.png" width="20" height="20">](https://github.com/ch-var/SMART)
@@ -18,6 +16,10 @@
 📬 How to reach me: [<img src="/assets/gmail.png" width="21" height="15">](mailto:varnava.haris@gmail.com) 
 
 🎯 How to learn more about me: [<img src="/assets/link.jpg" width="18" height="18">](https://ch-var.github.io)
+
+<br>
+
+<img align="center" src="/assets/SFR.png">
 
 <br> 
 
