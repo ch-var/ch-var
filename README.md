@@ -17,9 +17,7 @@
 
 🎯 How to learn more about me: [<img src="/assets/link.jpg" width="18" height="18">](https://ch-var.github.io)
 
-<br>
-
-<img align="center" src="/assets/SFR.png">
+<p align="center"><img src="/assets/SFR.png" widht="40%" height="40%" /> </p>
 
 <br> 
 
