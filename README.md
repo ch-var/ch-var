@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Charalambia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Cover&label=Profile%20views&color=orange&style=flat" /> </p>
 
-<p>
+<br>
 
 👀 Passionate researcher in the broad areas of **computational and applied mathematics**, as well as **galaxy evolution**
 
@@ -17,11 +17,11 @@
 
 🎯 How to learn more about me: [<img src="/assets/link.jpg" width="18" height="18">](https://ch-var.github.io)
 
-<p>
+<br>
 
 <p align="center"><img src="/assets/SFR.png" /> </p>
 
-<p> 
+<br> 
 
 Fields of Scientific Interest
 =============
@@ -37,7 +37,7 @@ Spectral energy distribution (SED) fitting
 
 Finite element method
 
-<p>
+<br>
 
 More about me
 =============
