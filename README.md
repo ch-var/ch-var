@@ -43,4 +43,8 @@ More about me
 =============
 For more information, please visit my [website](https://ch-var.github.io) and feel free to contact me!
 
+<br> <br>
+
+<p align="center">© Charalambia Varnava  •  2024</p>
+
 
