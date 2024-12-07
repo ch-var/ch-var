@@ -19,7 +19,7 @@
 
 <br>
 
-<p align="center"><img src="/assets/SFR.png" /> </p>
+<p align="center"><img src="/assets/office.png" width="50%" height="50%" /> </p>
 
 <br> 
 
