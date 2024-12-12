@@ -3,6 +3,15 @@
 
 <br>
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>Your text goes here on the left side.</p>
+  </div>
+  <div>
+    <img src="/assets/office.png" width="50%" height="50%"/>
+  </div>
+</div>
+
 👀 Passionate researcher in the broad areas of **computational and applied mathematics**, as well as **galaxy evolution**
 
 ✨ Turning my hobby into my job and vice versa
