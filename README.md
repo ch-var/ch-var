@@ -3,9 +3,7 @@
 
 <br>
 
-<p align="left"> <strong>👀 Passionate researcher, blending **computational and 
-  
-  applied mathematics**, as well as **galaxy evolution**
+👀 Passionate researcher, blending **computational and applied mathematics**, as well as **galaxy evolution**
 
 ✨ Turning my hobby into my job and vice versa
 
@@ -17,10 +15,13 @@
 
 📬 How to reach me: [<img src="/assets/gmail.png" width="21" height="15">](mailto:varnava.haris@gmail.com) 
 
-🎯 How to learn more about me: [<img src="/assets/link.jpg" width="18" height="18">](https://ch-var.github.io)</strong> </p> <img align="right" src="/assets/office.png" width="20%" height="20%">
-
+🎯 How to learn more about me: [<img src="/assets/link.jpg" width="18" height="18">](https://ch-var.github.io)
 
 <br>
+
+<p align="center"><img src="/assets/office.png" width="40%" height="40%" /> </p>
+
+<br> 
 
 Fields of Scientific Interest
 =============
@@ -45,5 +46,3 @@ For more information, please visit my [website](https://ch-var.github.io) and fe
 <br> <br>
 
 <p align="center">© Charalambia Varnava • 2024</p>
-
-
