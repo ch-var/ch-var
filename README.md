@@ -5,7 +5,7 @@
 
 👀 Passionate researcher, blending **computational and applied mathematics**, as well as **galaxy evolution**
 
-<table> <tr> <td><strong>✨ Turning my hobby into my job and vice versa
+✨ Turning my hobby into my job and vice versa
 
 💻 Developed **SMART** [<img src="https://github.com/ch-var/ch-var/blob/main/assets/SMART_logo_for_profile.png" width="20" height="20">](https://github.com/ch-var/SMART)
 
@@ -15,7 +15,11 @@
 
 📬 How to reach me: [<img src="/assets/gmail.png" width="21" height="15">](mailto:varnava.haris@gmail.com) 
 
-🎯 How to learn more about me: [<img src="/assets/link.jpg" width="18" height="18">](https://ch-var.github.io)</strong></td> <td><img src="/assets/office.png" width="20%" height="20%"></td> </tr> </table>
+🎯 How to learn more about me: [<img src="/assets/link.jpg" width="18" height="18">](https://ch-var.github.io)
+
+<br>
+
+<p align="center"><img src="/assets/office.png" width="40%" height="40%" /> </p>
 
 <br> 
 
@@ -42,3 +46,5 @@ For more information, please visit my [website](https://ch-var.github.io) and fe
 <br> <br>
 
 <p align="center">© Charalambia Varnava • 2024</p>
+
+
