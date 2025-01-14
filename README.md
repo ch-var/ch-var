@@ -46,5 +46,3 @@ For more information, please visit my [website](https://ch-var.github.io) and fe
 <br> <br>
 
 <p align="center">© Charalambia Varnava • 2024</p>
-
-
