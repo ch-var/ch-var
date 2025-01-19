@@ -19,9 +19,11 @@
 
 <br>
 
-<p align="center"><img src="/assets/office.png" width="400" height:auto; </p>
+<p align="center"><img src="/assets/office.png" width="350" height:auto; </p>
 
 <br> 
+<br>
+<br>
 
 Fields of Scientific Interest
 =============
