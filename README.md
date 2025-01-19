@@ -19,7 +19,7 @@
 
 <br>
 
-<p align="center"><img src="/assets/office.png" width="40%" height="40%" /> </p>
+<p align="center"><img src="/assets/office.png" width="400" height:auto; </p>
 
 <br> 
 
