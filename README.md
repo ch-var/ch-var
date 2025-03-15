@@ -33,6 +33,8 @@ Markov chain Monte Carlo (MCMC) model fitting
 
 Bayesian inference
 
+Data mining
+
 Differential equations
 
 Spectral energy distribution (SED) fitting
