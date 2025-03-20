@@ -31,9 +31,9 @@ Computational mathematics
 
 Markov chain Monte Carlo (MCMC) model fitting
 
-Bayesian inference
-
 Data mining
+
+Bayesian inference
 
 Differential equations
 
