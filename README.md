@@ -29,9 +29,9 @@ Fields of Scientific Interest
 =============
 Computational mathematics
 
-Markov chain Monte Carlo (MCMC) model fitting
-
 Data mining
+
+Markov chain Monte Carlo (MCMC) model fitting
 
 Bayesian inference
 
