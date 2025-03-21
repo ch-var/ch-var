@@ -33,13 +33,13 @@ Data mining
 
 Probabilistic data analysis
 
-Markov chain Monte Carlo (MCMC) model fitting
+Markov chain Monte Carlo model fitting
 
 Bayesian inference
 
 Differential equations
 
-Spectral energy distribution (SED) fitting
+Spectral energy distribution fitting
 
 Finite element method
 
