@@ -31,6 +31,8 @@ Computational mathematics
 
 Data mining
 
+Probabilistic data analysis
+
 Markov chain Monte Carlo (MCMC) model fitting
 
 Bayesian inference
