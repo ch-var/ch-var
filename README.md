@@ -33,13 +33,15 @@ Data mining
 
 Probabilistic data analysis
 
+Optimization and simulation
+
 Markov chain Monte Carlo model fitting
 
 Bayesian inference
 
-Differential equations
-
 Spectral energy distribution fitting
+
+Differential equations
 
 Finite element method
 
