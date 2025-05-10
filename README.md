@@ -5,7 +5,7 @@
 
 👀 Passionate researcher, blending **computational and applied mathematics**, as well as **galaxy evolution**
 
-✨ Transforming my hobby into a career
+✨ Transforming my hobby into my career
 
 💻 Developed **SMART** [<img src="https://github.com/ch-var/ch-var/blob/main/assets/SMART_logo_for_profile.png" width="20" height="20">](https://github.com/ch-var/SMART)
 
