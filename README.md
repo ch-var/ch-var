@@ -3,7 +3,7 @@
 
 <br>
 
-👀 Passionate researcher, who leverages **computational and applied mathematics** to address challenges across astrophysics, data-driven sciences and beyond
+👀 Passionate **postdoctoral researcher**, who leverages **computational and applied mathematics** to address challenges across astrophysics, data-driven sciences and beyond
 
 ✨ Transforming my hobby into my career
 
