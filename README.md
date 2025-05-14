@@ -31,17 +31,17 @@ Computational mathematics
 
 Differential equations and numerical methods
 
-Finite element method
+Finite element method (FEM)
 
 Optimization and simulation
 
 Data mining and probabilistic data analysis
 
-Markov chain Monte Carlo methods
+Markov chain Monte Carlo (MCMC) methods
 
 Bayesian inference
 
-Spectral energy distribution fitting
+Spectral energy distribution (SED) fitting
 
 <br>
 
