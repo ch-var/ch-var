@@ -29,19 +29,15 @@ Fields of Scientific Interest
 =============
 Computational mathematics
 
-Differential equations and numerical methods
+Data mining
 
-Finite element method (FEM)
-
-Optimization and simulation
-
-Data mining and probabilistic data analysis
-
-Markov chain Monte Carlo (MCMC) methods
+Markov chain Monte Carlo methods
 
 Bayesian inference
 
-Spectral energy distribution (SED) fitting
+Finite element methods
+
+Spectral energy distribution fitting
 
 <br>
 
