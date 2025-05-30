@@ -37,7 +37,7 @@ Bayesian inference
 
 Finite element methods
 
-Spectral energy distribution fitting
+Spectral energy distribution fitting with radiative transfer models
 
 <br>
 
