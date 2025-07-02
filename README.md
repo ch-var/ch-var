@@ -35,8 +35,6 @@ Markov chain Monte Carlo methods
 
 Bayesian inference
 
-Finite element methods
-
 Spectral energy distribution fitting with radiative transfer models
 
 <br>
@@ -47,4 +45,4 @@ For more information, please visit my [website](https://ch-var.github.io) and fe
 
 <br> <br>
 
-<p align="center">© Charalambia Varnava • 2024</p>
+<p align="center">© Charalambia Varnava • 2025</p>
