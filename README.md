@@ -31,6 +31,8 @@ Computational mathematics
 
 Scientific computing
 
+Data science
+
 Markov chain Monte Carlo methods
 
 Bayesian inference
