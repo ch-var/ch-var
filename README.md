@@ -5,21 +5,45 @@
 
 👀 Passionate **postdoctoral researcher**, leveraging **computational and applied mathematics** to address challenges across astrophysics, data-driven sciences and beyond
 
-✨ Transforming my hobby into my career
+<table>
+  <tr>
+    <td valign="top">
 
-💻 Developed **SMART** [<img src="https://github.com/ch-var/ch-var/blob/main/assets/SMART_logo_for_profile.png" width="20" height="20">](https://github.com/ch-var/SMART)
+✨ **Transforming my hobby into my career**<br><br>
 
-🔭 How to find my scientific works: [<img src="/assets/orcid.png" width="20" height="20">](https://orcid.org/0009-0004-6200-0919)
+💻 Developed **SMART**  
+<a href="https://github.com/ch-var/ch-var/blob/main/assets/SMART_logo_for_profile.png">
+  <img src="https://github.com/ch-var/ch-var/blob/main/assets/SMART_logo_for_profile.png" width="20" height="20">
+</a><br><br>
 
-⚡ How to watch my videos: [<img src="/assets/YouTube.png" width="23" height="17">](https://www.youtube.com/channel/UC6Yyxgp4KmtX6cXLyw_jb9Q)
+🔭 How to find my scientific works:  
+<a href="https://orcid.org/0009-0004-6200-0919">
+  <img src="https://raw.githubusercontent.com/ch-var/ch-var/main/assets/orcid.png" width="20" height="20">
+</a><br><br>
 
-📬 How to reach me: [<img src="/assets/gmail.png" width="21" height="15">](mailto:varnava.haris@gmail.com) 
+⚡ How to watch my videos:  
+<a href="https://www.youtube.com/channel/UC6Yyxgp4KmtX6cXLyw_jb9Q">
+  <img src="https://raw.githubusercontent.com/ch-var/ch-var/main/assets/YouTube.png" width="23" height="17">
+</a><br><br>
 
-🎯 How to learn more about me: [<img src="/assets/link.jpg" width="18" height="18">](https://ch-var.github.io)
+📬 How to reach me:  
+<a href="mailto:varnava.haris@gmail.com">
+  <img src="https://raw.githubusercontent.com/ch-var/ch-var/main/assets/gmail.png" width="21" height="15">
+</a><br><br>
 
-<br>
+🎯 How to learn more about me:  
+<a href="https://ch-var.github.io">
+  <img src="https://raw.githubusercontent.com/ch-var/ch-var/main/assets/link.jpg" width="18" height="18">
+</a>
 
-<p align="center"><img src="/assets/office.png" width="300" height:auto; </p>
+</td>
+<td>
+
+<img src="https://raw.githubusercontent.com/ch-var/ch-var/main/assets/office.png" width="300">
+
+</td>
+</tr>
+</table>
 
 <br> 
 <br>
