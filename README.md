@@ -28,9 +28,9 @@ Fields of Scientific Interest
 =============
 Computational mathematics
 
-Scientific computing
-
 Data science
+
+Scientific computing
 
 Markov chain Monte Carlo methods
 
