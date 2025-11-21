@@ -28,9 +28,11 @@ Fields of Scientific Interest
 =============
 Computational mathematics
 
-Data science
+High-performance data analytics
 
-Scientific computing
+Machine learning
+
+High-performance computing
 
 Markov chain Monte Carlo methods
 
