@@ -38,8 +38,6 @@ Markov chain Monte Carlo methods
 
 Bayesian inference
 
-Spectral energy distribution fitting with radiative transfer models
-
 <br>
 
 More about me
