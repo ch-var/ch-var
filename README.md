@@ -30,7 +30,7 @@ Computational mathematics
 
 High-performance data analytics
 
-Machine learning
+Applied machine learning
 
 High-performance computing
 
