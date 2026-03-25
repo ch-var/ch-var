@@ -42,7 +42,7 @@ Bayesian inference
 
 More about me
 =============
-For more information, please visit my [website](https://ch-var.github.io) and feel free to contact me!
+For more information, please visit my [website](https://ch-var.github.io). I am open to collaborations and research projects. If you would like to work together, please feel free to get in touch.
 
 <br> <br>
 
