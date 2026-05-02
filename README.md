@@ -32,11 +32,15 @@ High-performance data analytics
 
 Applied machine learning
 
+Explainable Artifcial Intelligence
+
 High-performance computing
 
 Markov chain Monte Carlo methods
 
 Bayesian inference
+
+Causal inference
 
 <br>
 
