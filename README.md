@@ -43,6 +43,7 @@ Bayesian inference
 Causal inference
 
 <br>
+
 More about me
 =============
 For more information, please visit my [website](https://ch-var.github.io). I'm always open to collaborations and research projects. If you'd like to work together, please feel free to get in touch.
