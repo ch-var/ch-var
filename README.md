@@ -42,6 +42,8 @@ Bayesian inference
 
 Causal inference
 
+Counterfactual estimation
+
 <br>
 
 More about me
