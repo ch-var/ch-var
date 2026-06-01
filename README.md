@@ -26,13 +26,11 @@
 
 Fields of Scientific Interest
 =============
-Computational mathematics
-
-High-performance data analytics
-
 Applied machine learning
 
 Explainable artifcial intelligence
+
+High-performance data analytics
 
 High-performance computing
 
