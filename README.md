@@ -38,9 +38,9 @@ High-performance computing
 
 Markov chain Monte Carlo methods
 
-Bayesian inference
+Bayesian learning
 
-Causal inference
+Causal learning
 
 Counterfactual estimation
 
