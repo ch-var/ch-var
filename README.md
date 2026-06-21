@@ -28,19 +28,19 @@ Fields of Scientific Interest
 =============
 Applied machine learning
 
+Causal learning
+
+Bayesian learning
+
 Explainable artifcial intelligence
 
 High-performance data analytics
 
-High-performance computing
-
 Markov chain Monte Carlo methods
 
-Bayesian learning
-
-Causal learning
-
 Counterfactual estimation
+
+High-performance computing
 
 <br>
 
